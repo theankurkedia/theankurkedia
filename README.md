@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Ankur's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=theankurkedia&show_icons=true)
+
+
 <!--
 **theankurkedia/theankurkedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
