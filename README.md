@@ -6,7 +6,8 @@ Hi there, I am Ankur. Thanks for dropping by! I like to Code and build products 
 - 💬 Ask me about: Building apps from scratch, code architecture, design systems, UI, UX, DX.
 - 😄 Pronouns: he/him.
 
-![Ankur's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=theankurkedia&show_icons=true)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=theankurkedia&show_icons=true&theme=gotham" alt="Ankur Kedia | Stats" />
 
 
 <!--
